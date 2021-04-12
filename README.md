@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**felipefoschiera/felipefoschiera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate Computer Science student at the Universidade de Passo Fundo, Brazil, currently on my last year. I am also a full-time full-stack developer at [NDM Global](https://www.ndmglobal.com/). 
 
-Here are some ideas to get you started:
+I have a lot of interest in the field of Artificial Intelligence and Machine Learning, and I am planning on pursuing a master's degree in the field in 2022.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working with front-end and back-end development, specially with Python, Vue.js, Flask and PostgreSQL, and with system integration projects
+- 🌱 I’m currently learning about Machine Learning, with a focus on Natural Language Processing
+- :closed_book: I have some research experience working with genetic algorithms for optimization problems, specially focused on the curriculum-based course timetabling problem
+- :computer: I have also some experience with competitive programming, having participated in multiple local and national ICPC competitions. I also organized classes and trainings for high school and university undergraduate students to the Brazilian Olympiads in Informatics and the International Collegiate Programming Contest, covering advanced programming topics related to algorithms, data structures, graph theory, dynamic programming, among other topics. 
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipefoschiera@gmail.com)](mailto:felipefoschiera@gmail.com)
